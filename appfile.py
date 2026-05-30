@@ -57,5 +57,5 @@ st.markdown(
     """
     Este dashboard permite explorar visualmente el dataset IRIS mediante
     métricas estadísticas y gráficos interactivos.
-    """
+    """)
 st.caption("Aplicación desarrollada con Streamlit y Scikit-Learn")
